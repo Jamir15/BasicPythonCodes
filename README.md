@@ -1,0 +1,41 @@
+# Basic Python Codes 🐍
+
+A collection of basic Python programs I created during my first semester of college, covering fundamental concepts and simple exercises. This repository demonstrates foundational programming skills, logical problem-solving, and familiarity with Python syntax.
+
+---
+
+## 📝 Language
+- **Python 3.x**
+
+---
+
+## ⚙️ Type of Code
+- Beginner-friendly programs
+- Console-based scripts
+- Educational exercises for learning Python fundamentals
+
+---
+
+## 🛠️ Functions & Concepts Covered
+- Input/Output operations (`input()`, `print()`)
+- Conditional statements (`if`, `elif`, `else`)
+- Loops (`for`, `while`)
+- Arithmetic operations and conversions
+- Functions and modular code
+- Basic problem-solving exercises (odd/even check, Celsius-Fahrenheit conversion, etc.)
+
+---
+
+## 📂 Repository Contents
+| File | Description |
+|------|-------------|
+| `CelsiusFahrenheit.py` | Converts temperature between Celsius and Fahrenheit |
+| `oddEven.py` | Checks whether a number is odd or even |
+| *(Other files)* | *Brief description of what each file does* |
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jamir15/BasicPythonCodes.git
