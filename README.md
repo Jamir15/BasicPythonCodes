@@ -36,6 +36,8 @@ A collection of basic Python programs I created during my first semester of coll
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jamir15/BasicPythonCodes.git
+## 🚀 How to Run
+1. Copy the code file you want to try.  
+2. Open your Python IDE (e.g., Visual Studio Code, PyCharm).  
+3. Paste the code or open the `.py` file in the IDE.  
+4. Click **Run** to execute the program.
